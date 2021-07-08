@@ -4,12 +4,12 @@ FOR WINDOWS INSTRUCTIONS - Command Prompt CLI
 
 ___________________
 Installation Steps:
-    1: cd into_desired_folder				   "Rnter created folder"
-    2: git clone https://github.com/SirGlory/arb_ws.git    "Clone from within the created folder"
-    3: cd arb_tool_ws                                      "Enter project folder"
-    4: python -m virtualenv venv                           "Create virtual environment"
-    5: .\venv\Scripts\activate                             "Activate virtual environment"
-    6: pip install -r requirements.txt                     "Install required packages"
+    1: cd into_desired_folder				   	"Rnter created folder"
+    2: git clone https://github.com/SirGlory/arb_tool_ws.git    "Clone from within the created folder"
+    3: cd arb_tool_ws                                     	"Enter project folder"
+    4: python -m virtualenv venv                          	"Create virtual environment"
+    5: .\venv\Scripts\activate                           	"Activate virtual environment"
+    6: pip install -r requirements.txt                   	"Install required packages"
 
 __________
 Run Steps:
