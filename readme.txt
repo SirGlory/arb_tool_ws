@@ -6,7 +6,7 @@ ___________________
 Installation Steps:
     1: cd into_desired_folder				   "Rnter created folder"
     2: git clone https://github.com/SirGlory/arb_ws.git    "Clone from within the created folder"
-    3: cd arb_ws                                           "Enter project folder"
+    3: cd arb_tool_ws                                      "Enter project folder"
     4: python -m virtualenv venv                           "Create virtual environment"
     5: .\venv\Scripts\activate                             "Activate virtual environment"
     6: pip install -r requirements.txt                     "Install required packages"
@@ -33,6 +33,11 @@ Run Steps:
 	11: .\venv\Scripts\activate			"Activate virtual environment"
 	12: python app.py				"Run script to proccess data and display in Dash App"
 	13: navigate to http://127.0.0.1:8050/		"View Dash app in browser"
+
+________
+TO STOP 
+  close command prompts or hit "CTRL + C" or "CTRL + PAUSEBREAK"
+
 _______________
 Optional Tuning:
     -at the top of the valr_ws.py and luno_ws.py script:
@@ -40,4 +45,5 @@ Optional Tuning:
 	*Adjust depth for scan depth of orderbook, higher for greater vol_cond or illiquid markets, default=20
 
     -at the top of app.py
-	*Adjust refresh_interval for faster or slower refresh rate in Dash app, default=100 (milliseconds) 
+	*Adjust refresh_interval for faster or slower refresh rate in Dash app, default=100 (milliseconds)
+ 
