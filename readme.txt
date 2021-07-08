@@ -50,4 +50,5 @@ Optional Tuning:
 ______
 TIPS
 	- use TAB to autocomplete, eg "python l" + TAB --> becomes "python luno_ws.py" or "cd D" --> becomes "cd Desktop"
+	- use UP arrow for previously typed commands
  
