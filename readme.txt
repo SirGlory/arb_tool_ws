@@ -1,4 +1,4 @@
-* Must have Python and virtualenv installed already *
+* Must have Python and virtualenv already installed *
 _____________________________________________
 FOR WINDOWS INSTRUCTIONS - Command Prompt CLI
 
