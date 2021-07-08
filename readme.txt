@@ -46,4 +46,8 @@ Optional Tuning:
 
     -at the top of app.py
 	*Adjust refresh_interval for faster or slower refresh rate in Dash app, default=100 (milliseconds)
+	
+______
+TIPS
+	- use TAB to autocomplete, eg "python l" + TAB --> becomes "python luno_ws.py" or "cd D" --> becomes "cd Desktop"
  
